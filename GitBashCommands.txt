@@ -4,3 +4,5 @@ git add . - selektira failovete koito iskame da dobavim v lokalnoto repository
 git commit -m "Text massage about the current change in the commit" - komitva (izprashta) novite promeni kym lokalnoto repository
 git push - vkarva promenenite failove koito sme izbrali v centralnoto repository(git server)
 git pull - izdyrpva update-natite failove ot centralnoto repository v servera na git
+git checkout -- <filename.filetype> - tazi komanda vryshta iztriti failove ili discardva-posledni promeni izvyrsheni s failove
+
